@@ -772,3 +772,5 @@
 \_**\_49.2.2 babel-loader 설치
 \_\_**49.2.3 webpack.config.js 설정 파일 작성
 \_\_\_\_49.2.4 babel-polyfill 설치
+
+---
