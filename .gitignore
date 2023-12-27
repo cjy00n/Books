@@ -1,4 +1,4 @@
-temp.js
-temp.py
-temp.java
-temp.class
+*.js
+*.java
+*.py
+*.class
