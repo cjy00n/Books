@@ -9,6 +9,6 @@
 <img width="200" src="https://github.com/cjy00n/Books/assets/33516975/ed618781-1b61-41f3-a09e-6e4af2ca10f5">
 
 
-## 자바스크립트 Deep Dive
+## 모던 자바스크립트 Deep Dive
 
 <img width="200" src="https://github.com/cjy00n/Books/assets/33516975/e1aa27fa-c6c5-4b73-b144-1f4a278d2de5">
